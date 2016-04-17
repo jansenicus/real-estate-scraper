@@ -3,7 +3,7 @@
 
 Buying a house is an important decision and sometimes a though one when money is scarce.
 
-This time I created a [Python Script](https://github.com/jansenicus/python-scripts/blob/master/HOUSE/getHouseforSale.py) to collect data of house in "House for Sale" website.
+This time I created a [Python Script](https://github.com/jansenicus/real-estate-scraper/blob/master/rumahdijual.py) to collect data of house in "House for Sale" website.
 
 You can use it to gather house data within a certain price range.
 You want to know what building area or land area is provided within that price range.
@@ -13,7 +13,7 @@ You have opted to gather data of house with price ranging from 600 to 700 millio
 You want to know which house is the best to buy.
 
 
-![Command Line Screenshot of getHouseforSale.py](https://github.com/jansenicus/python-scripts/blob/master/HOUSE/houseforsale.png)
+![Command Line Screenshot of getHouseforSale.py](https://github.com/jansenicus/real-estate-scraper/blob/master/notebook/depok/png/houseforsale.png)
 
 
 Once your data of interest has been put to a csv file, you can do anything with it:
@@ -46,4 +46,4 @@ that is available within the price or a price range you have selected.
 Of course you are still human and have certain subjective preference to make the decision of buying a house, 
 but looking at the data may help you to make better decision.
 
-[More...](https://github.com/jansenicus/python-scripts/blob/master/HOUSE/depok.md)
+[More...](https://github.com/jansenicus/real-estate-scraper/tree/master/notebook/depok/readme.md)
