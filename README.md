@@ -1,2 +1,2 @@
 # real-estate-scraper
-Real Estate Scraper to help you make a better decision on buying a real estate
+Real Estate Scraper politely scrape data to help you make a better decision on buying a real estate
